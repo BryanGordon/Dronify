@@ -1,4 +1,3 @@
-/* eslint-disable object-property-newline */
 import { Button } from './components/ui/button'
 import { Input } from './components/ui/input'
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from './components/ui/accordion'

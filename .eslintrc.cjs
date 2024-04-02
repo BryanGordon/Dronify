@@ -17,6 +17,7 @@ module.exports = {
     'react/jsx-no-target-blank': 'off',
     'react-hooks/rules-of-hooks': 'off',
     'react/prop-types': 'off',
+    'object-property-newline': 'off',
     'react-refresh/only-export-components': [
       'warn',
       { allowConstantExport: true },
